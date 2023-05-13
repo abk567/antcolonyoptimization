@@ -1,4 +1,5 @@
 README
+Using the ant colony optimization algorithm is really quite simple. It's so ez!
 This program implements an ant colony optimization algorithm to solve the Shelf Picking Problem.
 
 Problem Description
